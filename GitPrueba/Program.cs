@@ -12,7 +12,7 @@ namespace GitPrueba
         {
             Console.WriteLine("Hola mundo que pex");
             Console.ReadKey();
-            //uwu
+            //Comenatarios
         }
     }
 }
